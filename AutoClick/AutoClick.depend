@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1621190105 source:c:\users\f8012852\documents\programas\autoclick\main.cpp
+	<windows.h>
+	<stdio.h>
+
