@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1622412416 source:c:\users\f8012852\documents\programas\teste_click_mouse\main.cpp
+	<iostream>
+	<windows.h>
+	<WindowsX.h>
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<cmath>
+	<winuser.h>
+

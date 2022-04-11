@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1623873575 source:c:\users\f8012852\documents\programas\jogo_cobra\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+

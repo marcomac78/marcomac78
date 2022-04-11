@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1615755174 source:c:\users\f8012852\documents\programas\lersenha\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+

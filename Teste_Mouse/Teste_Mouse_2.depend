@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1620603652 source:c:\users\f8012852\documents\programas\teste_mouse\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+
